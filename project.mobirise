@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "forum.html",
+    "currentPage": "index.html",
     "name": "NUS ISE Club",
     "theme": {
       "name": "mobirise3",
@@ -24,8 +24,9 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 128,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/copy-of-logo-wo-background-128x127.png",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/copy-of-logo-wo-background-128x127-1.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "about.html": {
