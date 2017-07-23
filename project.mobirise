@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "isecamp.html",
     "name": "NUS ISE Club",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 128,
+    "uniqCompNum": 161,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/copy-of-logo-wo-background-128x127-1.png",
     "noImageResize": "",
@@ -35,7 +35,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -122,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\" target=\"_blank\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -226,7 +227,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -291,7 +292,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
@@ -378,7 +380,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\" target=\"_blank\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -465,7 +467,7 @@
           "title1": "ISE Camp 2017",
           "subtitle1": "27th June - 30th June 2017",
           "caption1": "Hello incoming freshmen matriculating in AY17/18! Do sign up for the annual ISE Camp 2017 to get to know your course mates &amp; seniors and have lots of fun at the same time☺Don't miss out and sign up now!<br>Sign-up link: <a href=\"http://tinyurl.com/isecamp2017\" target=\"_blank\">tinyurl.com/isecamp2017</a><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/NUSISEClub/photos/a.375758462548124.1073741831.367535383370432/473814076075895/?type=3&amp;theater\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"isecamp.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/case-comp-600x400.png",
@@ -736,7 +738,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -776,7 +778,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 6
       },
       "components": [
         {
@@ -863,7 +866,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\" target=\"_blank\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1077,7 +1080,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1117,7 +1120,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 7
       },
       "components": [
         {
@@ -1204,7 +1208,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\" target=\"_blank\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1333,7 +1337,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1373,7 +1377,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 8
       },
       "components": [
         {
@@ -1460,7 +1465,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\" target=\"_blank\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1674,7 +1679,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1714,7 +1719,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 9
       },
       "components": [
         {
@@ -1801,7 +1807,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\" target=\"_blank\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1985,7 +1991,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2026,7 +2032,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -2113,7 +2120,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"false\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\" target=\"_blank\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2271,7 +2278,7 @@
           "title1": "ISE Camp 2017",
           "subtitle1": "27th June - 30th June 2017",
           "caption1": "Hello incoming freshmen matriculating in AY17/18! Do sign up for the annual ISE Camp 2017 to get to know your course mates &amp; seniors and have lots of fun at the same time☺Don't miss out and sign up now!<br>Sign-up link: <a href=\"http://tinyurl.com/isecamp2017\" target=\"_blank\">tinyurl.com/isecamp2017</a><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/NUSISEClub/photos/a.375758462548124.1073741831.367535383370432/473814076075895/?type=3&amp;theater\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"isecamp.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/welfarepack1617sem2-600x666.jpg",
@@ -2400,7 +2407,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2456,6 +2463,607 @@
             "overlayColor": "#444444"
           },
           "text": "<p>Copyright © 2017 NUS Industrial &amp; Systems Engineeing Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"#top\">Back to Top</a></p>"
+        }
+      ]
+    },
+    "isecamp17.html": {
+      "settings": {
+        "title": "NUS ISE Club",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "46px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            ".mbr-section-text I": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-4c",
+          "_params": {
+            "imageSize": "60",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ise-camp-2000x1500.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=QNyXJkV2X-8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "NUS ISE Camp 2017 Montage | Finding Dory",
+          "text": "ISE CAMP 2017 has finally come to an end! The main committee would like to thank everyone for making this camp possible!<br><br><i>Just keep swimming, just keep swimming...</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "ISE Faculty Orientation Camp 2017",
+          "meta": "By Hong Cho &amp; Nicholas posted July 20, 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>ISE Camp is an annual orientation program organized by the ISE Club to exclusively welcome the incoming ISE freshmen. This year’s camp was held over a 4-day-3-night period at the end of June, and involved over 50 freshmen and 30 seniors (or orientation group leaders, OGLs). Finding Dory was the camp theme for this year, and the freshmen had to cooperate and overcome obstacles along the way in order to find Dory. There were 4 orientation groups (OGs): Bailey, Destiny, Nemo and Hank.</p><p><br></p><p>The camp started off with opening addresses by Mr Seetow, Deputy Director of the Office of Student Affairs, followed by Mr Steven Chiang, ISEM Department Manager. Things were awkward between the freshmen at first, as they looked on blankly at the unfamiliar faces which surrounded them. However, things started to warm up as the OGs played Ice-Breaker games including “Identity Crisis”, “Bloop Bloop”, and “7-Up” to learn more about one another. Next up, the mass games “Chubby Bunny”, “Pass it on Charades” and “Makeup game” awaited the OGs as they were pit against each other to fight for points. Laughter soon filled the LT as the games proceeded.</p><p><br></p><p>Having gotten to know their new friends, the day continued on with different station games around engineering. These games aimed to familiarise the freshmen with the complicated layout of the engineering faculty.&nbsp;</p><p><br></p><p>Before long, night fell and the freshmen now found themselves being trapped in an underwater cave (simulated by an escape room). However, this was no daunting task for them as all of them successfully escaped the room and continued on with their quest to locate Dory. The first day came to a fruitful end as the freshmen checked into Prince George Park Residences to rest for the night.</p><p><br></p><p>All rested and energised, the freshmen started Day 2 off with an Amazing Race, aimed at orienting the freshmen around NUS. There were various pit-stops located around NUS and the OGs had to race against the clock to complete different tasks at each pit-stop. OGs soon picked up clues along the way which brought them a little closer to Finding Dory. “Beware of the Sharks Tonight” was the warning that the OGs received from the race.&nbsp;</p><p><br></p><p>After dinner, Ding Yu, a Year 3 ISE Undergraduate, shared with the freshmen about his ISE experience thus far. This sharing session was insightful as it helped the freshmen gain a better understanding of what exactly ISE is about. The Q&amp;A also cleared any doubts they may have had. Not long after the sharing session, the OGs found themselves being chased by the sharks that they were told to beware of. The fishes were under threat! The OGs had a simple mission: To gather clues and eliminate all the sharks. Eventually, with blood, sweat and cooperation between the four OGs, the freshmen found a way to kill the sharks and the seas became clear once again.&nbsp;</p><p><br></p><p>Day 3 of the camp brought the freshmen to Siloso Beach in Sentosa, as the games “Refill the Ocean”, “Save the fishes”, “Water Pinata” and “SOS” awaited the OGs. Through each of the games, the OGs came closer to saving Dory. Halfway through, dark skies filled the beach. However, this did not dampen the OGs’ spirits. At the end of the day, we were rewarded by an amazing sunset. This was undoubtedly the highlight of the camp as the OGs were reunited with the sea -- the natural habitat of Dory and her friends.</p><p><br></p><p>The final day of the camp ended on a high note with a BBQ and amazing performances put up by each OGs. The performances included song and dance, a skit, stand-up comedy, and even a magic show. As the camp came to an end, the OGs cracked the last clue. With this final clue, they finally found Dory. In the process of finding Dory over the past 4 days, the OGs became much closer, and the freshmen not only found Dory, but also found friends and companions that will last them through their long and winding university journey.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ISE Camp 2017 was a resounding success and the camp committee wishes to thank the ISE department for their unwavering support and guidance, as well as all the freshmen and OGLs for their effort and enthusiasm.</span><br></p><p><br></p><p>Till next year!</p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#343e57"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#414e6d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#475577"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3r",
+          "_params": {
+            "bgColor": "#475577",
+            "fontSize": "0.75",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/copy-of-logo-wo-background-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "footer1-3u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p>Copyright © 2017 NUS Industrial &amp; Systems Engineeing Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"#top\">Back to Top</a></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-3w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/NUSISEClub\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/nus_ise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#cccccc"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "contacts4-3x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#475577",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "tay.chi.shien.2012@vjc.sg",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        }
+      ]
+    },
+    "isecamp.html": {
+      "settings": {
+        "title": "NUS ISE Club",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#343e57"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#414e6d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#475577"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3y",
+          "_params": {
+            "bgColor": "#475577",
+            "fontSize": "0.75",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/copy-of-logo-wo-background-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NUS ISE Club</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"events.html\" aria-expanded=\"true\">EVENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"isecamp.html\">Freshmen Orientation Camp</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUS-ISE Case Competition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Industry &amp; Career Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE Night Cycling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exam Welfare Pack</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ISE DAY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Workshops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"events.html\">more...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"studentlife.html\" aria-expanded=\"false\">STUDENT LIFE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Info for Freshmen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Module Review</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SEP/NOC/IAP</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"studentlife.html\">more...</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sponsorship.html\" aria-expanded=\"false\">SPONSORSHIP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"store.html\" aria-expanded=\"false\">STORE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"forum.html\" aria-expanded=\"false\">FORUM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160703-wa0015-2000x1500.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Freshmen Orientation Camp",
+          "text": "<p>Where it all begins here...</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-48",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/17192235-473814076075895-4060473697902470352-o-600x337.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ISE CAMP 2017",
+          "text": "Dates: 27 Jun 2017 - 30 Jun 2017<br>Locations: NUS and Sentosa<br>Sign-up link: <a href=\"http://tinyurl.com/isecamp2017\" target=\"_blank\">tinyurl.com/isecamp2017</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"isecamp17.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "footer1-41",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p>Copyright © 2017 NUS Industrial &amp; Systems Engineeing Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <a href=\"#top\">Back to Top</a></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-43",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/NUSISEClub\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/nus_ise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#cccccc"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "contacts4-44",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#475577",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">1 Engineering Drive 2, Blk E1A #06-25</a><br><a href=\"http://map.nus.edu.sg/index.php#page=map&amp;long=103.7714177000000000&amp;lat=1.2984886610000000\" target=\"_blank\">Singapore 117576</a><br><br><br>\n<strong>Contacts</strong><br>\nEmail:&nbsp;<a href=\"mailto:club.ise.nus@gmail.com\" target=\"_blank\">club.ise.nus@gmail.com</a><br>\nFacebook: <a href=\"https://www.facebook.com/NUSISEClub\" target=\"_blank\">fb.com/NUSISEClub</a><br>\nInstagram: <a href=\"https://www.instagram.com/nus_ise\" target=\"_blank\">instagram.com/nus_ise</a>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"index.html\">Home</a></li><li><a href=\"about.html\">About</a></li><li><a href=\"events.html\">Events</a></li><li><a href=\"studentlife.html\">Student Life</a></li><li><a href=\"forum.html\" target=\"_blank\">Forum</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "tay.chi.shien.2012@vjc.sg",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     }
