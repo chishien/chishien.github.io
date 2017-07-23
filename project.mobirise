@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "forum.html",
     "name": "NUS ISE Club",
     "theme": {
       "name": "mobirise3",
@@ -1862,7 +1862,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.iseforum.prophpbb.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN IN WITH NUS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://iseforum.prophpbb.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN IN WITH NUS</a>",
           "text": "We are kind people. We share trade secrets.",
           "title": "ISE Forum"
         },
@@ -1900,7 +1900,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"www.iseforum.prophpbb.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW FORUM</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://iseforum.prophpbb.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW FORUM</a>",
           "title": "Not yet NUS Student?",
           "text": "We've got you covered. Discover seniors' hidden secrets..."
         },
