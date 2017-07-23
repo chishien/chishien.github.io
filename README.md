@@ -1,1 +1,1 @@
-# iseclubwebsite.github.io
+# iseclubwebsite
